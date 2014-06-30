@@ -20,6 +20,7 @@ gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
 gem 'high_voltage'
+gem 'google_drive'
 
 group :development do
 	gem 'better_errors'
